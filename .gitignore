@@ -2,9 +2,9 @@
 **/.terraform/*
 
 # .tfstate files
-*.tfstate
-*.tfstate.*
-*.tfplan
+#*.tfstate
+#*.tfstate.*
+#*.tfplan
 
 # Crash log files
 crash.log
